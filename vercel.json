@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://app.trueranker.com/en/pd/1536170/b6585b06dae3a1/$1"
+ }
+  ]
+}
