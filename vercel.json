@@ -1,8 +1,11 @@
 {
+  "redirects": [{"source": "https://app.trueranker.com/en/pd/1536170/b6585b06dae3a1",       "destination": "https://app.iprofile.id",       "permanent": true     }
+],
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "https://app.trueranker.com/en/pd/1536170/b6585b06dae3a1/$1"
- }
+    }
   ]
 }
+    
